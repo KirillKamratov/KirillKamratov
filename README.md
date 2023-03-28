@@ -3,7 +3,7 @@ My name is Kirill and I am a junior frontend developer.
 
 - 🧑🏻‍💻 I'm a student of Yandex Practicum
 - 🌱 I always learn something new.
-- 📫 How to reach me: <a  href="http://t.me/kirillkamratov" target="_blank"> <img src="https://img.icons8.com/fluency/512/telegram-app.png" alt="Telegram" height = 20></a> <a  href="https://www.linkedin.com/in/bronik04/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="linkedin" height = 20></a>
+- 📫 How to reach me: <a  href="http://t.me/kirillkamratov" target="_blank"> <img src="https://img.icons8.com/fluency/512/telegram-app.png" alt="Telegram" height = 20></a> <a  href="https://www.linkedin.com/in/kirill-kamratov-142b46243" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/linkedin/linkedin-original.svg" alt="linkedin" height = 20></a>
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
