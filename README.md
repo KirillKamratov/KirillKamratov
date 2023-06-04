@@ -14,6 +14,7 @@ My name is Kirill and I am a junior frontend developer.
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width=50>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/redux/redux-original.svg" width=50>
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/git/git-original.svg" width=50>
+<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width=50>
 </div>
 
 ---
