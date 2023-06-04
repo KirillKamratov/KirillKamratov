@@ -17,6 +17,8 @@ My name is Kirill and I am a junior frontend developer.
 <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" width=50>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width=50>
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" width=50>
 </div>
 
 ---
